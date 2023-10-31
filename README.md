@@ -1,6 +1,6 @@
 
 <div align = "center">
-<img src="https://github.com/frank-cardoso/Project-Blog-de-gatos/issues/1#issue-1969722658" />
+<img src="https://github.com/frank-cardoso/Project-Blog-de-gatos/issues/1#issue-1969722658"/>
 </div>
 
 <h2>🚀 Tecnologias</h2>
